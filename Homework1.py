@@ -1,0 +1,5 @@
+a = int(input("Input a number:"))
+b = int(input("Input b number:"))
+c = int(input("Input c number:"))
+d = int(input("Input d number:"))
+print("a = {}, b = {}, c = {}, d = {}".format(a, b, c, d))
